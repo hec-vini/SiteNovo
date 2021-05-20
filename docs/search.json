@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-20T14:10:54-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Website da Madruga",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-20T14:10:56-03:00"
+    }
+  ],
+  "collections": []
+}
